@@ -27,13 +27,12 @@ Analyze 148 restaurant listings to answer:
 | Most common restaurant type | **Dining** dominates the dataset |
 | Highest engagement type (by votes) | **Dining** restaurants receive the most votes overall |
 | Top restaurant (weighted rating) | **Empire Restaurant** (rating × votes) |
-| Typical price point | Most restaurants cost **~₹300 for two** |
+| Typical price point | Most restaurants cost **₹300 for two** |
 | Rating distribution | Most restaurants rate between **3.5–4.0** |
 | Ratings by order mode | Restaurants accepting online orders have **higher median ratings** than offline-only ones |
 | Type vs order mode | Dining restaurants mostly operate **without** online ordering; Cafes lean more toward online ordering |
 
 ## 📈 Sample Visuals
-*(embed 2-3 of your PNG chart exports here, e.g.)*
 ![Ratings by order mode](images/ratings_by_order.png)
 ![Restaurant type distribution](images/restaurant_types.png)
 
