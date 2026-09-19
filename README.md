@@ -40,8 +40,8 @@ Analyze 148 restaurant listings to answer:
 
 ## 🚀 How to Run
 ```bash
-git clone <your-repo-url>
-cd zomato-data-analysis
+git clone https://github.com/jobinjosej253/zomato-restaurant-analysis.git
+cd zomato-restaurant-analysis
 pip install pandas matplotlib seaborn numpy
 jupyter notebook Zomato_dataAnalysis.ipynb
 ```
