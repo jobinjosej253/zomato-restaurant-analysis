@@ -33,9 +33,9 @@ Analyze 148 restaurant listings to answer:
 | Type vs order mode | Dining restaurants mostly operate **without** online ordering; Cafes lean more toward online ordering |
 
 ## 📈 Sample Visuals
-Ratings by order mode
+### Ratings by order mode
 ![image](images/ratings_by_order.png)
-Restaurant type distribution
+### Restaurant type distribution
 ![image1](images/restaurant_types.png)
 
 ## 🚀 How to Run
