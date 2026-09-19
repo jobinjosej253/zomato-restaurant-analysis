@@ -48,11 +48,10 @@ jupyter notebook Zomato_dataAnalysis.ipynb
 
 ## 📂 Repo Structure
 ```
-├── data/
-│   └── Zomato-data-.csv
-├── notebooks/
-│   └── Zomato_dataAnalysis.ipynb
+├── Zomato-data-.csv
+├── Zomato_dataAnalysis.ipynb
 ├── images/
-│   └── (exported chart PNGs)
+│   └── ratings_by_order.png
+│   └── restaurant_types.png
 └── README.md
 ```
